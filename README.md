@@ -1,4 +1,4 @@
-The zip data contains 93th to 118th congressional data in .RData form. 
+The zip data contains 93th to 118th congressional data in .RData format. 
 Each congress has two lists (H: House and S: Senate), and each list has three items: 
 1. Cosponsorship presented via matrix.
     - Rows are legislator; columns are billID; 2 means sponsor; 1 means cosponsor; 0 means no response.
